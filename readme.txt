@@ -1,1 +1,3 @@
-こんにちは、SourceTree!!
+﻿こんにちは、SourceTree!!
+
+branch2
