@@ -1,2 +1,3 @@
-﻿﻿こんにちは、SourceTree!! branch test
+﻿﻿﻿こんにちは、SourceTree!! branch test
 1行追加
+branch2
